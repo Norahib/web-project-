@@ -3,8 +3,7 @@
 <head> <title> pname </title> </head> 
 <body>
 
-    <a  class="link-node" href="mainht.html" title="Home"><h3>Home</h3></a>
-    <a class="link-node" href="Art.html" title="Artists"><h3>Artists</h3></a>
+    <a  class="link-node" href="mainht.html" title="Home"><h3>Home</h3></a> &nbsp; <a class="link-node" href="Art.html" title="Artists"><h3>Artists</h3></a>
  <form action="action_page.php" method="post">
   <div class="container">
     <h3>Sign Up</h3>
